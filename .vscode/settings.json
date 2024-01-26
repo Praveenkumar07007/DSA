@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"cglicenses.json": "jsonc",
+		"*.tst": "typescript",
+		"iostream": "cpp"
+	}
+}
