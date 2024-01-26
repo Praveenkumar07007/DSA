@@ -5,4 +5,5 @@ int main(){
 	cout<<7<<endl;
 	cout<<"hello world"<<endl;
 	cout<<"hi how are yoy"<<endl;
+
 }
