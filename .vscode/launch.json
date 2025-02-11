@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/OneDrive/Desktop/dsa/Recursion",
-      "program": "d:/OneDrive/Desktop/dsa/Recursion/build/Debug/outDebug",
+      "cwd": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/sorting/cyclicSort",
+      "program": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/sorting/cyclicSort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
