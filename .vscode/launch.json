@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/sorting/cyclicSort",
-      "program": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/sorting/cyclicSort/build/Debug/outDebug",
+      "cwd": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/Basics",
+      "program": "c:/Users/prave/OneDrive/Documents/GitHub/DSA/Basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
